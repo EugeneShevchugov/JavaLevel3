@@ -1,4 +1,4 @@
-package task6;
+package task5;
 
 import java.util.concurrent.Semaphore;
 
