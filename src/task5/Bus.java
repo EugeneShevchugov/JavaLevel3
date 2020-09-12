@@ -1,4 +1,4 @@
-package task6;
+package task5;
 
 public class Bus extends Auto {
     public Bus(String vin) {
